@@ -30,5 +30,4 @@ public class ArrayDSA {
         System.out.println("Array 1:" + arr1);
         System.out.println("Array 2:" + arr2);
     }
-    
-}
+    }
